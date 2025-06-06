@@ -3,3 +3,4 @@ alembic
 pandas
 psycopg2-binary
 mysql-connector-python
+python-dotenv
